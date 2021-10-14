@@ -5,3 +5,6 @@
 2. 偵測螢幕寬高，讓時鐘永遠保持置中
 
 分別以模組化方式輸出
+
+連結:
+https://ming851206.github.io/Digital-Clock/
