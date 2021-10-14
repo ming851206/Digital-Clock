@@ -6,5 +6,6 @@
 
 分別以模組化方式輸出
 
-連結:
-https://ming851206.github.io/Digital-Clock/
+--------------------------------------------------------------------
+
+實作連結：https://ming851206.github.io/Digital-Clock/
